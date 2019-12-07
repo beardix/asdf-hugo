@@ -1,5 +1,7 @@
 # asdf-hugo
 
+![](https://github.com/beardix/asdf-hugo/workflows/ci/badge.svg)
+
 [Hugo](https://gohugo.io) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 
 ## Install
